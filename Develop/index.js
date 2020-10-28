@@ -66,6 +66,8 @@ function promptUser() {
 function generateREADME(answers) {
     return `# ${answers.projecttitle}
 
+    [![License](https://img.shields.io/badge/License%20-blue.svg)](${answers.license})
+
 ###### Table of Contents
 
 1. [Project Description](#project-description)

@@ -1,5 +1,7 @@
 # d
 
+    [![License](https://img.shields.io/badge/License%20-blue.svg)]([MIT License](LICENSE.txt))
+
 ###### Table of Contents
 
 1. [Project Description](#project-description)
@@ -9,7 +11,7 @@
 5. [Code of Conduct](#code-of-conduct)
 6. [Test Instructions](#test-instructions)
 7. [License](#license)
-8. [Credits](#credits)
+8. [Questions](#questions)
 
 #### Project Description
 
@@ -39,6 +41,7 @@
 
 * licensed under the [MIT License](LICENSE.txt).
 
-#### Credits
+#### Questions
 
-* [skylerdakota)'s GitHub Page](http://github.com/skylerdakota)
+* Please reach out regarding any questions to: skylerdakota@gmail.com
+* Or contact:[skylerdakota's GitHub Page](http://github.com/skylerdakota)
