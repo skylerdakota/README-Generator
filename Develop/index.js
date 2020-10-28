@@ -45,8 +45,8 @@ function promptUser() {
             message: "Which license is your application covered under?",
             name: "license",
             choices: [
-              "A simple & permissive license [link to MIT License](/LICENSE.txt)", 
-              "A sharing license [link to GNU GPLv3 License](/COPYING.txt)", 
+              "A simple & permissive license [MIT License](/LICENSE.txt)", 
+              "A sharing license [GNU GPLv3 License](/COPYING.txt)", 
             ]
           },
           {
@@ -60,20 +60,31 @@ function promptUser() {
 // function to generate markdown for README
 function generateREADME(answers) {
     return `# ${answers.projecttitle}
+    ## Table of Contents
+        * [Project Description](#Project Description)
+        * [Installation Instructions](#Installation Instructions)
+        * [Usage Information](#Usage Information)
+        * [Contributor Guidelines](#Contributor Guidelines)
+        * [Code of Conduct](#Code of Conduct)
+        * [Test Instructions](#Test Instructions)
+        * [License](#license)
+        * [Credits](#credits)
     ## Project Description
-    * ${answers.description}
+        * ${answers.description}
     ## Installation Instructions
-    * ${answers.install}
+        * ${answers.install}
     ## Usage Information
-    * ${answers.use}
+        * ${answers.use}
     ## Contributor Guidelines
-    * ${answers.contribution}
+        * ${answers.contribution}
+    ## Code of Conduct
+        * [link to contributor covenant code of conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
     ## Test Instructions
-    * ${answers.test}
-    ## Project Licesnse
-    * ${answers.license}
-    ## Project Creator
-    * ${answers.github}`;
+        * ${answers.test}
+    ## License
+        * licensed under the ${answers.license}.
+    ## Credits
+        * ${answers.github}`;
     }
     
     //module.exports = generateMarkdown;
