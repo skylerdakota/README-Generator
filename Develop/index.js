@@ -45,10 +45,8 @@ function promptUser() {
             message: "Which license is your application covered under?",
             name: "license",
             choices: [
-              "License 1", 
-              "License 2", 
-              "License 3", 
-              "License 4"
+              "A simple & permissive license [link to MIT License](/LICENSE.txt)", 
+              "A sharing license [link to GNU GPLv3 License](/COPYING.txt)", 
             ]
           },
           {
