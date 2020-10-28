@@ -1,6 +1,6 @@
 # d
 
-## Table of Contents
+###### Table of Contents
 
 1. [Project Description](#project-description)
 2. [Installation Instructions](#installation-instructions)
@@ -11,34 +11,34 @@
 7. [License](#license)
 8. [Credits](#credits)
 
-## Project Description
+#### Project Description
 
 * d
 
-## Installation Instructions
+#### Installation Instructions
 
 * d
 
-## Usage Information
+#### Usage Information
 
 * d
 
-## Contributor Guidelines
+#### Contributor Guidelines
 
-* undefined
+* d
 
-## Code of Conduct
+#### Code of Conduct
 
 * [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
 
-## Test Instructions
+#### Test Instructions
 
 * d
 
-## License
+#### License
 
-* licensed under the [MIT License](/LICENSE.txt).
+* licensed under the [MIT License](LICENSE.txt).
 
-## Credits
+#### Credits
 
-* [GitHub](http://github.com/skylerdakota)
+* [skylerdakota)'s GitHub Page](http://github.com/skylerdakota)

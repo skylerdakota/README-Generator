@@ -45,8 +45,8 @@ function promptUser() {
             message: "Which license is your application covered under?",
             name: "license",
             choices: [
-              "[MIT License](/LICENSE.txt)", 
-              "[GNU GPLv3 License](/COPYING.txt)", 
+              "[MIT License](LICENSE.txt)", 
+              "[GNU GPLv3 License](COPYING.txt)", 
             ]
           },
           {
@@ -61,7 +61,7 @@ function promptUser() {
 function generateREADME(answers) {
     return `# ${answers.projecttitle}
 
-## Table of Contents
+###### Table of Contents
 
 1. [Project Description](#project-description)
 2. [Installation Instructions](#installation-instructions)
@@ -72,37 +72,37 @@ function generateREADME(answers) {
 7. [License](#license)
 8. [Credits](#credits)
 
-## Project Description
+#### Project Description
 
 * ${answers.description}
 
-## Installation Instructions
+#### Installation Instructions
 
 * ${answers.install}
 
-## Usage Information
+#### Usage Information
 
 * ${answers.use}
 
-## Contributor Guidelines
+#### Contributor Guidelines
 
 * ${answers.contributions}
 
-## Code of Conduct
+#### Code of Conduct
 
 * [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
 
-## Test Instructions
+#### Test Instructions
 
 * ${answers.test}
 
-## License
+#### License
 
 * licensed under the ${answers.license}.
 
-## Credits
+#### Credits
 
-* [GitHub](http://github.com/${answers.github})`;
+* [${answers.github}'s GitHub Page](http://github.com/${answers.github})`;
 }
 
 // function call to initialize program
