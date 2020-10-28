@@ -1,8 +1,44 @@
-# Cody is the best dog
-    # this is a README file generated through node.js
-    # install the npm package and then run 'node index.js' in the terminal when in the correct project directory
-    # to demonstrate the utility of the terminal for file creation outside of the browser environment
-    # undefined
-    # run index.js in the terminal and if you are prompted it is working
-    # cody is a cool dog 
-    # skylerdakota
+# d
+
+## Table of Contents
+
+    * [Project Description](#Project Description)
+    * [Installation Instructions](#Installation Instructions)
+    * [Usage Information](#Usage Information)
+    * [Contributor Guidelines](#Contributor Guidelines)
+    * [Code of Conduct](#Code of Conduct)
+    * [Test Instructions](#Test Instructions)
+    * [License](#license)
+    * [Credits](#credits)
+    * 
+## Project Description
+
+* d
+
+## Installation Instructions
+
+* d
+
+## Usage Information
+
+* d
+
+## Contributor Guidelines
+
+* undefined
+
+## Code of Conduct
+
+* [link to contributor covenant code of conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
+
+## Test Instructions
+
+* d
+
+## License
+
+* licensed under the A simple & permissive license [MIT License](/LICENSE.txt).
+
+## Credits
+
+* d
