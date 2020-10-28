@@ -66,9 +66,7 @@ function promptUser() {
 function generateREADME(answers) {
     return `# ${answers.projecttitle}
 
-    [![License](https://img.shields.io/badge/License%20-blue.svg)](${answers.license})
-
-###### Table of Contents
+#### Table of Contents
 
 1. [Project Description](#project-description)
 2. [Installation Instructions](#installation-instructions)
@@ -110,7 +108,7 @@ function generateREADME(answers) {
 #### Questions
 
 * Please reach out regarding any questions to: ${answers.email}
-* Or contact:[${answers.github}'s GitHub Page](http://github.com/${answers.github})`;
+* Or contact: [${answers.github}'s GitHub Page](http://github.com/${answers.github})`;
 }
 
 // function call to initialize program

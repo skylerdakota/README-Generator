@@ -2,7 +2,7 @@
 
 [![MIT](https://img.shields.io/badge/License%20MIT-blue.svg)](Develop/LICENSE.txt)
 
-###### Table of Contents
+#### Table of Contents
 
 1. [Project Description](#project-description)
 2. [Installation Instructions](#installation-instructions)

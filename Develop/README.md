@@ -1,8 +1,6 @@
-# d
+# example title
 
-    [![License](https://img.shields.io/badge/License%20-blue.svg)]([MIT License](LICENSE.txt))
-
-###### Table of Contents
+#### Table of Contents
 
 1. [Project Description](#project-description)
 2. [Installation Instructions](#installation-instructions)
@@ -15,19 +13,19 @@
 
 #### Project Description
 
-* d
+* a very cool project
 
 #### Installation Instructions
 
-* d
+* run npm install for inquirer
 
 #### Usage Information
 
-* d
+* creates a professional readme file
 
 #### Contributor Guidelines
 
-* d
+* see below
 
 #### Code of Conduct
 
@@ -35,7 +33,7 @@
 
 #### Test Instructions
 
-* d
+* no tests at this time
 
 #### License
 
@@ -44,4 +42,4 @@
 #### Questions
 
 * Please reach out regarding any questions to: skylerdakota@gmail.com
-* Or contact:[skylerdakota's GitHub Page](http://github.com/skylerdakota)
+* Or contact: [skylerdakota's GitHub Page](http://github.com/skylerdakota)
