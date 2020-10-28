@@ -51,6 +51,11 @@ function promptUser() {
           },
           {
             type: "input",
+            name: "email",
+            message: "What is your email account?"
+          },
+          {
+            type: "input",
             name: "github",
             message: "What is your github username?"
           }
@@ -70,7 +75,7 @@ function generateREADME(answers) {
 5. [Code of Conduct](#code-of-conduct)
 6. [Test Instructions](#test-instructions)
 7. [License](#license)
-8. [Credits](#credits)
+8. [Questions](#questions)
 
 #### Project Description
 
@@ -100,9 +105,10 @@ function generateREADME(answers) {
 
 * licensed under the ${answers.license}.
 
-#### Credits
+#### Questions
 
-* [${answers.github}'s GitHub Page](http://github.com/${answers.github})`;
+* Please reach out regarding any questions to: ${answers.email}
+* Or contact:[${answers.github}'s GitHub Page](http://github.com/${answers.github})`;
 }
 
 // function call to initialize program

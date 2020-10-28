@@ -1,5 +1,7 @@
 # README-Generator
 
+[![MIT](https://img.shields.io/badge/License%20MIT-blue.svg)](Develop/LICENSE.txt)
+
 ###### Table of Contents
 
 1. [Project Description](#project-description)
@@ -9,7 +11,7 @@
 5. [Code of Conduct](#code-of-conduct)
 6. [Test Instructions](#test-instructions)
 7. [License](#license)
-8. [Credits](#credits)
+8. [Questions](#questions)
 
 #### Project Description
 
@@ -43,6 +45,7 @@ node index.js
 
 * licensed under the [MIT License](Develop/LICENSE.txt)
 
-#### Credits
+#### Questions
 
 * [Skyler Dakota's GitHub Page](http://github.com/skylerdakota)
+* skylerdakota@gmail.com
