@@ -41,7 +41,7 @@ node index.js
 
 #### License
 
-* licensed under the [MIT License](LICENSE.txt)
+* licensed under the [MIT License](Develop/LICENSE.txt)
 
 #### Credits
 
