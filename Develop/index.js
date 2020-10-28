@@ -45,8 +45,8 @@ function promptUser() {
             message: "Which license is your application covered under?",
             name: "license",
             choices: [
-              "A simple & permissive license [MIT License](/LICENSE.txt)", 
-              "A sharing license [GNU GPLv3 License](/COPYING.txt)", 
+              "[MIT License](/LICENSE.txt)", 
+              "[GNU GPLv3 License](/COPYING.txt)", 
             ]
           },
           {
@@ -63,14 +63,14 @@ function generateREADME(answers) {
 
 ## Table of Contents
 
-* [Project Description](#Project Description)
-* [Installation Instructions](#Installation Instructions)
-* [Usage Information](#Usage Information)
-* [Contributor Guidelines](#Contributor Guidelines)
-* [Code of Conduct](#Code of Conduct)
-* [Test Instructions](#Test Instructions)
-* [License](#license)
-* [Credits](#credits)
+1. [Project Description](#project-description)
+2. [Installation Instructions](#installation-instructions)
+3. [Usage Information](#usage-information)
+4. [Contributor Guidelines](#contributor-guidelines)
+5. [Code of Conduct](#code-of-conduct)
+6. [Test Instructions](#test-instructions)
+7. [License](#license)
+8. [Credits](#credits)
 
 ## Project Description
 
@@ -86,11 +86,11 @@ function generateREADME(answers) {
 
 ## Contributor Guidelines
 
-* ${answers.contribution}
+* ${answers.contributions}
 
 ## Code of Conduct
 
-* [link to contributor covenant code of conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
+* [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
 
 ## Test Instructions
 
@@ -102,7 +102,7 @@ function generateREADME(answers) {
 
 ## Credits
 
-* ${answers.github}`;
+* [GitHub](http://github.com/${answers.github})`;
 }
 
 // function call to initialize program
